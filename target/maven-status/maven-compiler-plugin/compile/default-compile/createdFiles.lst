@@ -1,0 +1,4 @@
+com\geronimo\crud_con_dao\PrimaryController.class
+module-info.class
+com\geronimo\crud_con_dao\SecondaryController.class
+com\geronimo\crud_con_dao\App.class
